@@ -1,0 +1,15 @@
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/bin/Debug/net8.0/abstract
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/bin/Debug/net8.0/abstract.deps.json
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/bin/Debug/net8.0/abstract.runtimeconfig.json
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/bin/Debug/net8.0/abstract.dll
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/bin/Debug/net8.0/abstract.pdb
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.AssemblyInfoInputs.cache
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.AssemblyInfo.cs
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.csproj.CoreCompileInputs.cache
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.sourcelink.json
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.dll
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/refint/abstract.dll
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.pdb
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/abstract.genruntimeconfig.cache
+/Users/essonbernard/Desktop/dcit318/dcit318-assignment2-10977959/abstract/obj/Debug/net8.0/ref/abstract.dll
